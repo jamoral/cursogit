@@ -1,5 +1,8 @@
 @charset ="utf-8";
 /* CSS Document*/
 body{ 
-    background-color:mediumblue
+    background-color:mediumblue;
+    font-weight:bold;
+    color: :white;
+
 }
